@@ -14,4 +14,4 @@
 <div style="display: inline_block"><br>
   
 ---
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maycon-cruz-047852169/)](https://www.linkedin.com/in/maycon-cruz-047852169/)[![Gmail Badge](https://img.shields.io/badge/-contatomaycon@outlook.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ontatomaycon@outlook.com)](mailto:ontatomaycon@outlook.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maycon-cruz-047852169/)](https://www.linkedin.com/in/maycon-cruz-047852169/)[![Gmail Badge](https://img.shields.io/badge/-dev.mayconcruz@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.mayconcruz@gmail.com)](mailto:dev.mayconcruz@gmail.com)
