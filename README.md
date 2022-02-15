@@ -1,6 +1,6 @@
 ### Maycon Cruz 👋
 
-* Cursando Análise e Desenvolvimento de Sistemas na FATEC
+* Cursando Análise e Desenvolvimento de Sistemas na Faculdade Estadual de Praia Grande
 >  Criativo por natureza! Quando eu não somente reproduzir tudo que aprendi e sim criar boas ideias, você poderá me chamar de inteligente.
 
 </div>
